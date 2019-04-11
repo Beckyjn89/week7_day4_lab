@@ -1,0 +1,31 @@
+body{
+  background-color: #048A81;
+  font-family: monospace;
+  color: #46494c;
+}
+
+h1 {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 3.5em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+
+select {
+  font-size: 1.05em;
+  margin-left: 1em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+div.mountain {
+  border-radius: 5px;
+  padding: 3em;
+  background-color: #DCDCDD;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  width: 30%;
+}
